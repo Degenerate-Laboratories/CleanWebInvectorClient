@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-CleanWebInvector-0.1";
 const contentToCache = [
     "Build/CleanWebInvectorBuild.loader.js",
-    "Build/CleanWebInvectorBuild.framework.js.br",
-    "Build/CleanWebInvectorBuild.data.br",
-    "Build/CleanWebInvectorBuild.wasm.br",
+    "Build/CleanWebInvectorBuild.framework.js",
+    "Build/CleanWebInvectorBuild.data",
+    "Build/CleanWebInvectorBuild.wasm",
     "TemplateData/style.css"
 
 ];
